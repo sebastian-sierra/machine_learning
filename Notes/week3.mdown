@@ -35,4 +35,4 @@ The cost function used in linear regression can not be used because the output h
 
 Insted we used this cost function:
 
-![Cost function](week3_images/cost_function)
+![Cost function](week3_images/cost_function.png)
